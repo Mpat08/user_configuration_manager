@@ -63,7 +63,8 @@ Each function takes a settings dictionary and the necessary arguments, performs 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE). You are free to use, copy, modify, and distribute this project as long as the original license and copyright notice are included.
+
 
 ---
 
