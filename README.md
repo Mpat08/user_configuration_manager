@@ -10,10 +10,10 @@ No external dependencies required — just Python 3.x.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/user-config-manager.git
+git clone https://github.com/Mpat08/user_configuration_manager.git
 
 # Navigate into the project folder
-cd user-config-manager
+cd user_configuration_manager
 ```
 
 ---
