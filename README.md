@@ -23,7 +23,7 @@ cd user-config-manager
 Run the script directly with Python:
 
 ```bash
-python config_manager.py
+python user_configuration_manager.py
 ```
 
 Each function takes a settings dictionary and the necessary arguments, performs the operation, and returns a status message.
