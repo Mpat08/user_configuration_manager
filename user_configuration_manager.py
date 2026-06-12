@@ -30,15 +30,5 @@ def view_settings(settings):
         result += key[0].upper() + key[1:] + ": " + value + "\n"
     return result
 
-print(add_setting({'theme': 'light'}, ('THEME', 'dark')))
 
-print(add_setting({'theme': 'light'}, ('volume', 'high')))
-
-print(update_setting({'theme': 'light'}, ('theme', 'dark')))
-
-print(update_setting({'theme': 'light'}, ('volume', 'high')))
-
-print(delete_setting({'theme': 'light'}, 'theme'))
-
-print(view_settings({'theme': 'dark', 'notifications': 'enabled', 'volume': 'high'}))
 
