@@ -1,5 +1,3 @@
-test_settings = {"theme": "space", "language" : "english", "notifications" : "enabled"}
-
 def add_setting(settings, kv):
     key, value = kv[0].lower(), kv[1].lower()
     if key in settings:
